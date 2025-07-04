@@ -1,0 +1,13 @@
+.banner {
+  background: url(../images.jpj/images.png);
+  height: 400px;
+}
+
+.overlay {
+  background: url(image.jpj/image.png) no-repeat center;
+  border: 1px solid;
+  background-size: cover;
+  text-align: left;
+  height: 300px;
+  opacity: 0.5;
+}
